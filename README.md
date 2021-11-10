@@ -8,5 +8,5 @@
 ### งานวันที่ 20/10/2564 = สรุป IPFS เป็นรายงานลง Github
 [Links](https://github.com/6110613103/CN476/blob/main/IPFS.md)
 
-### งานวันที่ 3/11/2564 = คลืป IPFS
+### งานวันที่ 3/11/2564 = คลิป IPFS
 [Links](https://youtu.be/Qc3C7OeddZo)
