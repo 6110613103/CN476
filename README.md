@@ -10,3 +10,6 @@
 
 ### งานวันที่ 3/11/2564 = คลิป IPFS
 [Links](https://youtu.be/Qc3C7OeddZo)
+
+### งานวันที่ 10/11/2564 = คลิป Tor Network and Dark Web
+[Links](https://youtu.be/-kYuIIUFueQ)
